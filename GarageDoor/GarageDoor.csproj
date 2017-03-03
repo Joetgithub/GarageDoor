@@ -298,8 +298,6 @@
     <Content Include="Hide.asmx" />
     <Content Include="PhotonCode\ProdPublishDataReady.json" />
     <Content Include="PhotonCode\TestPublishDataReady.json" />
-    <Content Include="PhotonCode\ProdPublishReportGargeStatus.json" />
-    <Content Include="PhotonCode\TestPublishReportGargeStatus.json" />
     <Content Include="PhotonCode\GarageDoor.ino" />
     <Content Include="ManualTestScripts.xls" />
     <None Include="Properties\PublishProfiles\1and1Debug.pubxml" />
