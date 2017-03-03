@@ -1,0 +1,9 @@
+{
+	"event" : "TestPublishDataReady",
+  "url": "http://[YOUR WAN ADDRESS]/Hide.asmx/PublishDataReady",
+	"requestType" : "POST",
+	"json" : {
+		"particleVariable" : "{{particleVariable}}"
+	},
+	"mydevices" : true
+}

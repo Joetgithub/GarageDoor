@@ -1,0 +1,9 @@
+{
+	"event" : "ProdPublishDataReady",
+	"url" : "https://www.mydomain.com/Hide.asmx/PublishDataReady",
+	"requestType" : "POST",
+	"json" : {
+		"particleVariable" : "{{particleVariable}}"
+	},
+	"mydevices" : true
+}
