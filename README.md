@@ -1,3 +1,3 @@
-## Garage door opener application powered by Photon wi-fi microcontroler
+## Full details about the project:
 
 https://www.hackster.io/JoeTio/overkill-genie-garage-door-opener-92a2d3
